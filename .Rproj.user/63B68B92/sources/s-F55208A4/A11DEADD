@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594137466725.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1248109858",
+    "id" : "A11DEADD",
+    "lastKnownWriteTime" : 1594137450,
+    "last_content_update" : 1594137450,
+    "path" : "C:/Users/Paulius/biology_case_studies/_output.yml",
+    "project_path" : "_output.yml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

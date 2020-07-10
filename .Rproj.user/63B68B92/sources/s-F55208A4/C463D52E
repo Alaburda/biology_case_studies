@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594419892793.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C463D52E",
+    "lastKnownWriteTime" : 1594419909,
+    "last_content_update" : 1594419909594,
+    "path" : "C:/Users/Paulius/biology_case_studies/branduolio_senejimas.Rmd",
+    "project_path" : "branduolio_senejimas.Rmd",
+    "properties" : {
+        "cursorPosition" : "44,33",
+        "scrollLine" : "38",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

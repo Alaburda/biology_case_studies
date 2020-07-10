@@ -1,0 +1,60 @@
+# Branduolio senėjimas
+
+Branduolio poros
+
+Užduotis paremta straipsniu „Age-dependent deterioration of nuclear pore complexes causes a loss of nuclear integrity in post-mitotic cells“
+Ištrauka A
+To distinguish between these two scenarios we analyzed nucleoporin expression levels during the development of Caenorhabditis elegans, a well-characterized nematode from which different  developmental stages can be separated manually. Importantly for this study, embryos and larvae contain dividing cells, while somatic cells of adult worms are entirely post-mitotic. We generated stable worm lines expressing GFP under the promoter of a peripheral nucleoporin, ceNup153, or under the promoter of a scaffold nucleoporin, ceNup160. Driven by the ceNup153 promoter, GFP was expressed in most if not all cells of embryos and adult worms (Figure 1B, S1A). In contrast, the ceNup160 promoter-driven expression of GFP was restricted to the embryo and, except for a few neurons in the head (Figure 1C), was not detectable in adult worms (Figure 1B). Strikingly, even in embryos the ceNup160 promoter was only active in a few cells that likely represent dividing cells, as evidenced by the coexpression with cyclin B (Figure S1B, C). It is important to note that the lack of promoter activity for both nucleoporins in the dividing germline is likely due to transgene silencing associated with this technique and not to the lack of promoter activity in the cells. These experiments indicate that expression of the ceNup160 scaffold nucleoporin is tightly regulated during development and absent in post-mitotic cells.
+Ištrauka B
+To analyze if other scaffold nucleoporins showed a similar behavior, we obtained worm lines
+expressing tomato under ceNup133 promoter or ceNup133-tomato under its own promoter.
+Similar to our findings for ceNup160, the promoter of ceNup133 was restricted to the pharynx
+cells and a few neurons in the post-mitotic adult worms while the ceNup133 protein was present
+in every nucleus (Figure S1D). These results indicate that the life-long stability is a common
+feature of scaffold nucleoporins.
+Ištrauka C
+To directly confirm that Nup160 was not expressed in post-mitotic cells we fed worms that
+stably expressed ceNup160-GFP or ceNup153-GFP bacteria expressing GFP RNAi for several
+generations until we obtained transgenic adult worms with no detectable GFP signal. When
+RNAi-mediated gene knock-down of ceNup160-GFP and ceNup153-GFP was reversed in this
+adult worms by RNAi against C. elegans dicer (DCR-1), an essential component of the RNAi
+machinery (Ketting et al., 2001), only ceNup153-GFP expression was restored (Figure 1E),
+further supporting the idea that ceNup160 is not expressed in post-mitotic cells. Taken together
+these results suggest that ceNup160 protein found in adult worms originates from embryonic
+expression and is extremely stable.
+Ištrauka D
+Potential defects in nuclear membrane integrity and the permeability barrier of NPCs can be
+directly tested using fluorescent dextrans with defined molecular weights as molecules larger
+than 60 kDa are excluded from intact nuclei (Lenart and Ellenberg, 2006) (Figure S5A). If the
+permeability barrier of NPCs is compromised, a 70 kDa dextran would be able to leak into the
+nucleus, whereas perturbations of the nuclear membrane are required to allow access of a 500
+kDa dextran (Galy et al., 2003) (Figure S5A). It is important to note that dextran influx assays
+are more sensitive than measuring active transport through the NPC, since even a single
+defective pore can be detected (Lenart et al., 2003). To test for functional alterations in old
+NPCs, we isolated nuclei from post-mitotic adult worms at different ages and analyzed their
+nuclear permeability. We found that, while both dextrans were excluded from the nuclei of
+young worms, influx of the 70 kDa dextran but not 500 kDa dextran was observed in a
+significant percentage (~ 30%) of the old worm nuclei (Figure 6A), indicating that the NPC
+function becomes compromised with age.
+Ištrauka E
+ 
+
+
+1.	Nurodykite po 2 molekules, kurios:
+a.	Keliauja iš citoplazmos į branduolį
+b.	Keliauja iš branduolio į citoplazmą
+2.	Kokie keturi domenai yra svarbiausi branduolio poros komplekse? Kokios yra jų funkcijos?
+3.	Koks yra pagrindinis autorių klausimas, į kurį jie bando atsakyti savo straipsnyje?
+4.	Autoriai suleido  į C. elegans vektorių su GFP (Green flourescent protein) genu, kuris turi ceNup153 ir ceNup160 promotorius:
+a.	Koks gyvūnas yra C. elegans? Kokiai karalystei ir tipui jis priklauso?
+b.	Kokiu atveju GFP bus ekspresuojamas?
+c.	Remdamiesi straipsnio iliustracija 1a, kuriais nukleoporino komplekso daliai priklauso baltymai:
+i.	Nup153?
+ii.	Nup160?
+5.	Kokiu būdu autoriai užtikrino, kurios ląstelės aktyviai dalijasi?
+6.	Ištraukoje B autoriai atlieka antrąjį eksperimentą, kuriame taip pat naudojama GFP baltymo ekspresija. Kuo šis eksperimentas skiriasi nuo pirmojo? 
+7.	Nubrėžkite schemą, kuri iliustruotų ištraukos C schemą. 
+8.	Kokia yra branduolio poros komplekso degradacijos pasekmė? Kaip autoriai tai atskleidė?
+9.	Kuo skiriasi branduolio poros komplekso sintezė S. cerevisiae? Kokią įtaka tai turi branduolio patvarumui?
+10.	Kokią išvadą autoriai siūlo dėl Nup160 ekspresijos evoliuciniu atžvilgiu? 
+11.	Kokios ląstelės turi daugiau branduolio porų? Kokia ląstelė gali turėti daugiausia porų?

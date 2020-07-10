@@ -1,0 +1,41 @@
+# Sideroforai ir bakterijų šaltasis karas
+
+Sideroforai ir bakterijų šaltasis karas
+Atsakykite į klausimus remdamiesi ištraukomis iš straipsnio „Microbe-mediated host defence drives the evolution of reduced pathogen virulence“ (Ford S, 2016, doi: 10.1038/ncomms13430).
+Ištrauka A
+Microbes can defend their hosts against pathogenic infection. This phenomenon has been widely observed in nature across plant and animal species, including humans, to provide a strong line of defence beyond the host response. As a result, microbes with protective traits are considered promising disease control agents and alternatives to antibiotics to combat devastating human and crop pathogens. Importantly, pathogen adaptation to barriers against infection can drive the evolution of virulence, as observed against immune-priming vaccines8 and competing, co-infecting pathogens. Given that defensive microbes likely impose strong selection on pathogens too, they may also play a pivotal role in determining why some infections are more harmful than others.
+Ištrauka B
+Furthermore, we have shown that although E. faecalis imposes a small cost to host longevity while colonizing alone (un-colonized hosts experience no mortality under otherwise the same conditions), this bacterium provides a net benefit to hosts during S. aureus infection19. <...> To test the hypothesis that defensive microbes can affect pathogen virulence evolution, we co-passaged S. aureus and E. faecalis (co-evolution treatment) and independently passaged S. aureus (single evolution treatment) within non-evolving, genetically homogeneous C. elegans populations for 10 passages.
+Iliustracija C
+ 
+
+
+Grafikas D
+ 
+Grafikas E
+ 
+Grafikas F
+ 
+Grafikas G
+ 
+1.	Autoriai tiria mikroorganizmus, jog atrastų alternatyvų antibiotikams. Kodėl turime ieškoti alternatyvų antibiotikams? 
+a.	Visuomenėje ir ligoninėse bakterijų atsparumas antibiotikams dažnėja.
+2.	Ką autoriai turi omenyje terminu koevoliucija?
+a.	Koevoliucija – tai procesas, kurio metu du organizmai veikia vienas kito evoliuciją.
+3.	Koks ekologinis ryšys sieja:
+a.	Apvaliąją kirmelę C. elegans ir bakteriją E. faecalis? Mutualizmas
+b.	Apvaliąją kirmelę C. elegans ir bakteriją S. aureus? Parazitizmas
+c.	Bakterijas E. faecalis ir C. elegans? Konkuravimas
+4.	Remdamiesi iliustracija C, kokia yra sideroforų funkcija? Ar sideroforai pernešami į ląstele aktyvios, ar pasyvios pernašos būdu?
+a.	Sideroforai – tai molekulės, kurios suriša (cheluoja) geležies jonus iš aplinkos. Jos reikalingos, nes geležies jonai yra prastai tirpūs, o sideroforai – gerai tirpūs. Sideroforai yra pernešami į ląstelę aktyvia pernaša, nes prieinamos geležies koncentracija aplinkoje maža.
+5.	Jeigu grafike D taip pat sektume E. faecalis mutacijų dažnį, kurioje vietoje tikėtumėmės jį pamatyti? Pažymėkite tašką skaičiumi 5 pateiktame grafike.
+a.	Kadangi E. faecalis irgi mutuoja ir prisitaiko prie aplinkos, taip pat turėtume pamatyti 100% išplitusias mutacijas, kurios leidžia E. faecalis išgyventi. 
+6.	Ištraukoje B nurodoma, jog bakterijos E. faecalis ir S. aureus buvo auginti dešimtyje skirtingų C. elegans kartų. Jeigu vietoje E. faecalis S. aureus augintume kartu su baltymu, kuris suriša S. aureus sideroforą, koks būtų S. aureus mutacijų dažnis? Pažymėkite tašką skaičiumi 6 pateiktame grafike.
+a.	Tikėtumėmės mažesnio mutacijų dažnio, tačiau tikėtumėmės rasti mutacijų su aukštu išplitimo procentu, nes originaliu atveju S. aureus ir E. faecalis nuolat mutuoja, jog įgautų pranašumą kito atžvilgiu. Tuo tarpu S. aureus genome užtenka atsirasti mutacijai, kuri sintetintų kitokį sideroforą, kurio baltymas nesurištų. 
+7.	Jeigu šiame eksperimente vietoje E. faecalis naudotume peniciliną (antibiotikas, kuris blokuoja bakterijų sienelės sintezę), ar pasikeistų grafikai D-G? Jeigu taip, kaip?
+a.	Ne, nes įgyta mutacija atsparumui penicilinui yra būtina išgyvenamumui, todėl tikėtumėmės pamatyti 100% išplitusių mutacijų.
+b.	Taip, koevoliucijos grupė turėtų normalią sideroforų gamybą.
+c.	Ne, nes penicilinas nužudytų bakterijas ir apsaugotų nuo C. elegans mirties.
+d.	Taip, nes penicilinas nužudo besidauginančias bakterijas, todėl tikėtumėmės mažesnio kiekio S. aureus kolonijų. 
+8.	Kuo E. faecalis, žmogaus mikrofloros bakterija, yra pranašesnė už antibiotikus kovojant su patogeninėmis bakterijomis?
+a.	E. faecalis, išnaudodama S. aureus sideroforų gamybą, skatina kitas S. aureus kartas gaminti mažiau sideroforų. Dėl to S. aureus tampa mažiau virulentiška bakterija – nors jos kiekis organizme išlieka didelis, bakterija nebėra pavojinga šeimininkui. Antibiotikai, nors ir nužudo bakterijas, skatina išlikti mutacijoms, suteikiančioms atsparumą antibiotikui. Vienu atveju S. aureus praranda savybę, kitu atveju – įgauna.

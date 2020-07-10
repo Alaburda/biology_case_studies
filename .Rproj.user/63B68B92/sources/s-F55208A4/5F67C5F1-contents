@@ -1,0 +1,31 @@
+# CRISPR
+
+Šaltiniai:
+Ma, H et al, Correction of a pathogenic gene mutation in human embryos (1), p. 1-6
+Egli, D et al., Inter-homologue repair in fertilized human eggs? (2), p. 2-6
+Ištrauka A
+Current treatment options for HCM [hipertrofinė kardiomiopatija, liga, dėl kurios auga ir randėja širdies raumuo] provide mostly symptomatic relief without addressing the genetic cause of the disease. Thus, the development of novel strategies to prevent germline transmission of founder mutations is desirable. One approach for preventing second-generation transmission is preimplantation genetic diagnosis (PGD) followed by selection of non-mutant embryos for transfer in the context of an in vitro fertilization (IVF) cycle. <...> Gene correction would rescue mutant embryos, increase the number of embryos available for transfer and ultimately improve pregnancy rates.
+Ištrauka B
+CRISPR–Cas9 is a versatile tool for recognizing specific genomic sequences and inducing DSBs [dvigubi DNR trūkiai]. DSBs are then resolved by endogenous DNA repair mechanisms, preferentially using a non-homologous end-joining (NHEJ) pathway. Obviously, NHEJ is inappropriate for gene correction applications because it introduces additional mutations in the form of insertions or deletions at the DSB site, commonly referred to as indels. In some cases, however, targeted cells activate an alternative DNA repair pathway called homology-directed repair (HDR) that rebuilds the DSB site using the non-mutant homologous chromosome or a supplied exogenous DNA molecule as a template.
+Ištrauka C
+Analysis of targeting outcomes in the majority of mosaic, zygote-injected human embryos revealed only two different genotypes. Embryos #5 and #9 were the exceptions, containing three or more genotypes. These findings suggest that CRISPR–Cas9 targeted at least two mutant sperm alleles despite injection into the zygote. There are two different possible explanations for this outcome: 1) at the time of injection, a zygote had completed the S-phase of the cell cycle with DNA replication and already produced two mutant alleles; 2) CRISPR–Cas9 remained active, continuing to target after zygotic division.
+We hypothesized that both situations could be abrogated if CRISPR–Cas9 was co-injected with sperm into the M-phase oocyte during fertilization by intracytoplasmic sperm injection (ICSI) <...> Therefore, CRISPR–Cas9 was mixed with the sperm suspension and co-injected into 75 (metaphase II) MII oocytes during ICSI. <...> Blastomeres from 16 of 58 (27.6%) M-phase-injected embryos were uniformly heterozygous, carrying an intact wild-type maternal allele along with NHEJ-repaired mutant paternal sequences carrying various indels. No heterozygous blastomeres with intact mutant alleles were detected, indicating 100% targeting efficiency in the M-phase-injected group compared to 72.2% efficiency in the S-phase-injected zygotes.
+Iliustracija D
+ 
+
+1.	Ištraukoje A minima genetinė liga – hipertrofinė kardiomiopatija. Kokias dar žinote ligas, susijusias su genų mutacijomis? Įvardinkite bent vieną.
+2.	Trumpai paaiškinkite, ką autoriai ištraukoje A ir B turi omenyje terminais:
+a.	Founder mutation?
+b.	Second-generation transmission?
+c.	Non-homologous end-joining?
+d.	Homology-directed repair?
+3.	Be to, jog nehomologinis galų sujungimas padidina mutacijų dažnį, kokia kita priežastis lemia, jog homologinis taisymas yra priimtinesnis?  
+4.	Kokiu atveju mutacijos homologinis taisymas nėra įmanomas be papildomų priemonių?
+5.	Remdamiesi Iliustracija D ir savo žiniomis apie apvaisinimą, paaiškinkite, kokie pokyčiai vyksta motininiame genome įvykus gametų susiliejimui?
+6.	Kaip manote, kokiu metu turėtų vykti homologinis taisymas?
+7.	Ar įmanomas gautume vientisą embrioną (kaip Iliustracijoje D) neįvykus sėkmingam homologiniam taisymui? Kada?
+8.	Autoriai savo straipsnyje teigia, jog mutantinio alelio korekcija įvyko, nes su PGR genome neberandamas mutantinis alelis. Ar rezultatai atrodo patikimi? Trumpai paaiškinkite savo atsakymą.
+Šaltiniai
+1. 	Ma H, Marti-Gutierrez N, Park S-W, Wu J, Lee Y, Suzuki K, et al. Correction of a pathogenic gene mutation in human embryos. Nature. Nature Publishing Group; 2017; 
+2. 	Ny NY, Biophysics C, Ny NY, Kingdom U, Pasteur AL, Program DB, et al. Inter-homologue repair in fertilized human eggs? 2017;1–6. 
+
