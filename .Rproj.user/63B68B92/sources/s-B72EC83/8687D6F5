@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3341702267",
+    "hash" : "0",
     "id" : "8687D6F5",
-    "lastKnownWriteTime" : 1594137450,
-    "last_content_update" : 1594137450,
+    "lastKnownWriteTime" : 1595020226,
+    "last_content_update" : 1595020226,
     "path" : "C:/Users/Paulius/biology_case_studies/_bookdown.yml",
     "project_path" : "_bookdown.yml",
     "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [

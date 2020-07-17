@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+/*------------- Body and header text---------------- */
+
+.book.font-family-1 {
+  font-family: 'PT Serif', serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'PT Serif', serif;
+}
+
+
+.book .book-body .page-wrapper .page-inner section.normal h1, 
+.book .book-body .page-wrapper .page-inner section.normal h2, 
+.book .book-body .page-wrapper .page-inner section.normal h3, 
+.book .book-body .page-wrapper .page-inner section.normal h4, 
+.book .book-body .page-wrapper .page-inner section.normal h5, 
+.book .book-body .page-wrapper .page-inner section.normal h6 {
+    margin-top: 2.275em;
+    margin-bottom: 1em;
+}
+
+.title {
+  font-family: 'PT Serif';
+  font-size: 4em !important;
+  color: #202020;
+  margin-top: 0.275em !important;
+  margin-bottom: 0.35em !important;
+}
+
+.subtitle {
+  font-family: 'PT Serif';
+  color: #707070;
+}
+
+/* CUSTOM BLOCKS */
+
+.terms {
+  padding: 1em 1em 1em 4em;
+  background: #dadada 5px center/3em no-repeat;
+  border-radius: 15px;    
+  margin-bottom: 10px; 
+  text-indent: 40px;
+  background-image: url("icons/open_book_icon.png");
+  font-size: 15px;
+}
