@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 4 CRISPR | Biologijos studijų analizė</title>
+  <meta name="description" content="Atvejų knyga apie tai, kaip skaityti mokslinius straipsnius ir juos analizuoti." />
+  <meta name="generator" content="bookdown 0.18 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 4 CRISPR | Biologijos studijų analizė" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="Atvejų knyga apie tai, kaip skaityti mokslinius straipsnius ir juos analizuoti." />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 4 CRISPR | Biologijos studijų analizė" />
+  
+  <meta name="twitter:description" content="Atvejų knyga apie tai, kaip skaityti mokslinius straipsnius ir juos analizuoti." />
+  
+
+<meta name="author" content="Paulius Alaburda" />
+
+
+<meta name="date" content="2020-07-17" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="branduolio-sen-jimas.html"/>
+<link rel="next" href="gen-perdavimas.html"/>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">A Minimal Book Example</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Kas tai?</a></li>
+<li class="chapter" data-level="2" data-path="intro.html"><a href="intro.html"><i class="fa fa-check"></i><b>2</b> Introduction</a></li>
+<li class="chapter" data-level="3" data-path="branduolio-sen-jimas.html"><a href="branduolio-sen-jimas.html"><i class="fa fa-check"></i><b>3</b> Branduolio senėjimas</a></li>
+<li class="chapter" data-level="4" data-path="crispr.html"><a href="crispr.html"><i class="fa fa-check"></i><b>4</b> CRISPR</a></li>
+<li class="chapter" data-level="5" data-path="gen-perdavimas.html"><a href="gen-perdavimas.html"><i class="fa fa-check"></i><b>5</b> Genų perdavimas</a></li>
+<li class="chapter" data-level="6" data-path="p53-reguliuoja-mitochondrij-kv-pavim-.html"><a href="p53-reguliuoja-mitochondrij-kv-pavim-.html"><i class="fa fa-check"></i><b>6</b> p53 reguliuoja mitochondrijų kvėpavimą</a></li>
+<li class="chapter" data-level="7" data-path="sideroforai-ir-bakterij-altasis-karas.html"><a href="sideroforai-ir-bakterij-altasis-karas.html"><i class="fa fa-check"></i><b>7</b> Sideroforai ir bakterijų šaltasis karas</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Biologijos studijų analizė</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="crispr" class="section level1">
+<h1><span class="header-section-number">Chapter 4</span> CRISPR</h1>
+<p>Šaltiniai:
+Ma, H et al, Correction of a pathogenic gene mutation in human embryos (1), p. 1-6
+Egli, D et al., Inter-homologue repair in fertilized human eggs? (2), p. 2-6
+Ištrauka A
+Current treatment options for HCM [hipertrofinė kardiomiopatija, liga, dėl kurios auga ir randėja širdies raumuo] provide mostly symptomatic relief without addressing the genetic cause of the disease. Thus, the development of novel strategies to prevent germline transmission of founder mutations is desirable. One approach for preventing second-generation transmission is preimplantation genetic diagnosis (PGD) followed by selection of non-mutant embryos for transfer in the context of an in vitro fertilization (IVF) cycle. &lt;…&gt; Gene correction would rescue mutant embryos, increase the number of embryos available for transfer and ultimately improve pregnancy rates.
+Ištrauka B
+CRISPR–Cas9 is a versatile tool for recognizing specific genomic sequences and inducing DSBs [dvigubi DNR trūkiai]. DSBs are then resolved by endogenous DNA repair mechanisms, preferentially using a non-homologous end-joining (NHEJ) pathway. Obviously, NHEJ is inappropriate for gene correction applications because it introduces additional mutations in the form of insertions or deletions at the DSB site, commonly referred to as indels. In some cases, however, targeted cells activate an alternative DNA repair pathway called homology-directed repair (HDR) that rebuilds the DSB site using the non-mutant homologous chromosome or a supplied exogenous DNA molecule as a template.
+Ištrauka C
+Analysis of targeting outcomes in the majority of mosaic, zygote-injected human embryos revealed only two different genotypes. Embryos #5 and #9 were the exceptions, containing three or more genotypes. These findings suggest that CRISPR–Cas9 targeted at least two mutant sperm alleles despite injection into the zygote. There are two different possible explanations for this outcome: 1) at the time of injection, a zygote had completed the S-phase of the cell cycle with DNA replication and already produced two mutant alleles; 2) CRISPR–Cas9 remained active, continuing to target after zygotic division.
+We hypothesized that both situations could be abrogated if CRISPR–Cas9 was co-injected with sperm into the M-phase oocyte during fertilization by intracytoplasmic sperm injection (ICSI) &lt;…&gt; Therefore, CRISPR–Cas9 was mixed with the sperm suspension and co-injected into 75 (metaphase II) MII oocytes during ICSI. &lt;…&gt; Blastomeres from 16 of 58 (27.6%) M-phase-injected embryos were uniformly heterozygous, carrying an intact wild-type maternal allele along with NHEJ-repaired mutant paternal sequences carrying various indels. No heterozygous blastomeres with intact mutant alleles were detected, indicating 100% targeting efficiency in the M-phase-injected group compared to 72.2% efficiency in the S-phase-injected zygotes.
+Iliustracija D</p>
+<ol style="list-style-type: decimal">
+<li>Ištraukoje A minima genetinė liga – hipertrofinė kardiomiopatija. Kokias dar žinote ligas, susijusias su genų mutacijomis? Įvardinkite bent vieną.</li>
+<li>Trumpai paaiškinkite, ką autoriai ištraukoje A ir B turi omenyje terminais:</li>
+</ol>
+<ol style="list-style-type: lower-alpha">
+<li>Founder mutation?</li>
+<li>Second-generation transmission?</li>
+<li>Non-homologous end-joining?</li>
+<li>Homology-directed repair?</li>
+</ol>
+<ol start="3" style="list-style-type: decimal">
+<li>Be to, jog nehomologinis galų sujungimas padidina mutacijų dažnį, kokia kita priežastis lemia, jog homologinis taisymas yra priimtinesnis?<br />
+</li>
+<li>Kokiu atveju mutacijos homologinis taisymas nėra įmanomas be papildomų priemonių?</li>
+<li>Remdamiesi Iliustracija D ir savo žiniomis apie apvaisinimą, paaiškinkite, kokie pokyčiai vyksta motininiame genome įvykus gametų susiliejimui?</li>
+<li>Kaip manote, kokiu metu turėtų vykti homologinis taisymas?</li>
+<li>Ar įmanomas gautume vientisą embrioną (kaip Iliustracijoje D) neįvykus sėkmingam homologiniam taisymui? Kada?</li>
+<li>Autoriai savo straipsnyje teigia, jog mutantinio alelio korekcija įvyko, nes su PGR genome neberandamas mutantinis alelis. Ar rezultatai atrodo patikimi? Trumpai paaiškinkite savo atsakymą.
+Šaltiniai</li>
+<li>Ma H, Marti-Gutierrez N, Park S-W, Wu J, Lee Y, Suzuki K, et al. Correction of a pathogenic gene mutation in human embryos. Nature. Nature Publishing Group; 2017;</li>
+<li>Ny NY, Biophysics C, Ny NY, Kingdom U, Pasteur AL, Program DB, et al. Inter-homologue repair in fertilized human eggs? 2017;1–6.</li>
+</ol>
+
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="branduolio-sen-jimas.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="gen-perdavimas.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["biology_case_studies.pdf", "biology_case_studies.epub"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

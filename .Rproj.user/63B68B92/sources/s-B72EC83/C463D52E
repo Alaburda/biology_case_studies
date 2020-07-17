@@ -1,25 +1,25 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1594420798709.000,
+    "created" : 1594419892793.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "5F67C5F1",
-    "lastKnownWriteTime" : 1594420815,
-    "last_content_update" : 1594420815234,
-    "path" : "C:/Users/Paulius/biology_case_studies/crispr.Rmd",
-    "project_path" : "crispr.Rmd",
+    "id" : "C463D52E",
+    "lastKnownWriteTime" : 1594560729,
+    "last_content_update" : 1594560729,
+    "path" : "C:/Users/Paulius/biology_case_studies/branduolio_senejimas.Rmd",
+    "project_path" : "branduolio_senejimas.Rmd",
     "properties" : {
-        "cursorPosition" : "7,10",
+        "cursorPosition" : "44,33",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 9,
+    "relative_order" : 8,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"

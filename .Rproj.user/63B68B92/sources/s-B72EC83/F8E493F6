@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3206390413",
+    "hash" : "0",
     "id" : "F8E493F6",
-    "lastKnownWriteTime" : 1594409862,
-    "last_content_update" : 1594409862582,
+    "lastKnownWriteTime" : 1594560729,
+    "last_content_update" : 1594560729,
     "path" : "C:/Users/Paulius/biology_case_studies/01-intro.Rmd",
     "project_path" : "01-intro.Rmd",
     "properties" : {
-        "cursorPosition" : "4,0",
+        "cursorPosition" : "2,18",
         "scrollLine" : "0"
     },
     "read_only" : false,
