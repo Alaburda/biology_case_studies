@@ -24,7 +24,7 @@
 <meta name="author" content="Paulius Alaburda" />
 
 
-<meta name="date" content="2020-07-18" />
+<meta name="date" content="2020-07-21" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -147,7 +147,9 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="7.1.6" data-path="sideroforai-ir-bakterij-altasis-karas.html"><a href="sideroforai-ir-bakterij-altasis-karas.html#grafikas-f"><i class="fa fa-check"></i><b>7.1.6</b> Grafikas F</a></li>
 <li class="chapter" data-level="7.1.7" data-path="sideroforai-ir-bakterij-altasis-karas.html"><a href="sideroforai-ir-bakterij-altasis-karas.html#grafikas-g"><i class="fa fa-check"></i><b>7.1.7</b> Grafikas G</a></li>
 </ul></li>
-<li class="chapter" data-level="7.2" data-path="sideroforai-ir-bakterij-altasis-karas.html"><a href="sideroforai-ir-bakterij-altasis-karas.html#klausimai"><i class="fa fa-check"></i><b>7.2</b> Klausimai</a></li>
+<li class="chapter" data-level="7.2" data-path="sideroforai-ir-bakterij-altasis-karas.html"><a href="sideroforai-ir-bakterij-altasis-karas.html#kodėl-šitas-straipsnis-svarbus"><i class="fa fa-check"></i><b>7.2</b> Kodėl šitas straipsnis svarbus?</a></li>
+<li class="chapter" data-level="7.3" data-path="sideroforai-ir-bakterij-altasis-karas.html"><a href="sideroforai-ir-bakterij-altasis-karas.html#kas-yra-stačiakampė-diagrama"><i class="fa fa-check"></i><b>7.3</b> Kas yra stačiakampė diagrama?</a></li>
+<li class="chapter" data-level="7.4" data-path="sideroforai-ir-bakterij-altasis-karas.html"><a href="sideroforai-ir-bakterij-altasis-karas.html#klausimai"><i class="fa fa-check"></i><b>7.4</b> Klausimai</a></li>
 </ul></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
@@ -174,10 +176,13 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <div class="terms">
 <ul>
 <li>
-Sideroforas (iš graikų, sidero - geležis, foras - nešantis) - smulkios molekulės, kurios stipriai jungiasi su geležimi. Jas išskiria grybai ir bakterijos, jog palengvintų geležies jonų pernašą per plazminę membraną. Geležies jonai gamtoje įprastai yra netirpaus pavidalo, sideroforai juos padaro tirpius.
+Sideroforas (iš graikų, sidero - geležis, foras - nešantis) - smulkios molekulės, kurios stipriai jungiasi su geležies jonais. Jas išskiria grybai ir bakterijos, jog palengvintų geležies jonų pernašą per plazminę membraną. Geležies jonai gamtoje įprastai yra netirpaus pavidalo, sideroforai juos padaro tirpiais.
 </li>
 <li>
 Boxplot (liet. stačiakampė diagrama) - grafinis duomenų atvaizdavimo tipas, kuomet centre yra mediana, o stačiakampio viršutinė ir apatinė ribos yra pirmas ir antras ketvirtis.
+</li>
+<li>
+Komensalizmas - dviejų organizmų santykis, kuomet viena rūšis iš santykio gauna naudą, o kita rūšis nepatiria nei naudos, nei žalos.
 </li>
 </ul>
 </div>
@@ -218,8 +223,19 @@ Boxplot (liet. stačiakampė diagrama) - grafinis duomenų atvaizdavimo tipas, k
 <p><img src="static/img/sideroforai_grafikas_D.png" /><!-- --></p>
 </div>
 </div>
+<div id="kodėl-šitas-straipsnis-svarbus" class="section level2">
+<h2><span class="header-section-number">7.2</span> Kodėl šitas straipsnis svarbus?</h2>
+<p>Mikrobiologija kaip sritis tapo labai įvairi ir šiuo metu mūsų supratimas apie santykį su bakterijomis smarkiai keičiasi. Bakterijos, anksčiau laikytos komensalėmis, dabar laikomos mums naudingos. Tai galioja ir kitiems gyvūnams - pavyzdžiui, vabzdžiai negali išgyventi be virškinamojo trakto bakterijų, o pelių vystymasis nepilnas be mikrofloros<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>. Autoriai įžangoje vietinę mikroflorą palygina su papildoma gynyba prieš patogenus. Kaip ir vakcinos ar konkurenciniai patogenai, vietinė mikroflora konkuruoja su patogu ir skatina prisitaikymą prie aplinkos. Suprasdami, kaip vietinė mikroflora veikia patogenų prisitaikymą galime suprasti daugiau apie bendrą jų prisitaikymo procesą bei išsiaiškinti, ar yra būdų kontroliuoti infekcijų išeitis.</p>
+</div>
+<div id="kas-yra-stačiakampė-diagrama" class="section level2">
+<h2><span class="header-section-number">7.3</span> Kas yra stačiakampė diagrama?</h2>
+<p>Iliustracijose duomenys pateikti kaip stačiakampė diagrama. Tai yra diagrama, kuri parodo 5 apibendrinimus apie duomenis: medianą, pirmą ir trečią kvartilį, bei 1,5 tarpkvartilinio ilgio apimtis. Diagrama tipiškai atrodo taip:</p>
+<div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb6-1" title="1">knitr<span class="op">::</span><span class="kw">include_graphics</span>(<span class="st">&quot;static/img/boxplot.png&quot;</span>)</a></code></pre></div>
+<p><img src="static/img/boxplot.png" /><!-- --></p>
+<p>Centrinė linija yra <em>mediana</em>, stačiakampio kraštai ir pirmas ir trečias kvartiliai, o ūsų ilgis yra lygus 1,5 tarpkvartiliniam pločiui. Tai labai geras grafikas dėl to, jog mediana nėra lygi vidurkiui, todėl jeigu mediana nėra viduryje stačiakampio, mes žinome, ar duomenys yra smarkiai nukrypę į dideles ar mažas vertes (t.y. ar jie yra simetriški). Tarpkvartilinis plotas (pats stačiakampis) parodo, kaip plačiai vertės yra išsidėsčiusios. Jeigu stačiakampis siauras, tai reiškia, jog 50 proc. reikšmių yra koncentruotos ties tam tikra verte, o jeigu stačiakampis yra platus - vertės yra labai išsimėčiusios ir duomenyse yra daug variacijos. Diagramos ūsai yra taip pat naudingi nustatyti, ar didelės ir mažos reikšmės yra labai nutolusios nuo medianos ar bendro duomenų skirsio. Taškai grafike žymi vertes, kurios yra tokios didelės, jog nepatenka į ūso ilgio. Jos yra geras indikatorius, jog su duomenimis nebūtinai viskas gerai - tokiais atvejais reikia savęs klausti, koks yra duomenų pasiskirstymas, kaip buvo sugeneruoti duomenys ir ar reikia ką nors daryti apie tai.</p>
+</div>
 <div id="klausimai" class="section level2">
-<h2><span class="header-section-number">7.2</span> Klausimai</h2>
+<h2><span class="header-section-number">7.4</span> Klausimai</h2>
 <ol style="list-style-type: decimal">
 <li>Autoriai tiria mikroorganizmus, jog atrastų alternatyvų antibiotikams. Kodėl turime ieškoti alternatyvų antibiotikams?</li>
 </ol>
@@ -275,6 +291,18 @@ Boxplot (liet. stačiakampė diagrama) - grafinis duomenų atvaizdavimo tipas, k
 </ol>
 
 </div>
+</div>
+
+
+
+
+
+
+<div class="footnotes">
+<hr />
+<ol start="1">
+<li id="fn1"><p>Apie bakterijų įtaką mums ir mūsų aplinkai rekomenduoju dvi knygas: Ed Yong “Manyje gyvena milijonai” (ang. “I Contain Multitudes”) ir Giulia Enders "Žarnyno žavumynai (ang. Gut: The Inside Story of Our Body’s Most Underrated Organ).<a href="sideroforai-ir-bakterij-altasis-karas.html#fnref1" class="footnote-back">↩</a></p></li>
+</ol>
 </div>
             </section>
 
