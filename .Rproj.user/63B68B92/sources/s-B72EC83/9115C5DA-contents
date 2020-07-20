@@ -4,8 +4,9 @@
 
 ```{block, type='terms'}
 
-* Sideroforas (iš graikų, sidero - geležis, foras - nešantis) - smulkios molekulės, kurios stipriai jungiasi su geležimi. Jas išskiria grybai ir bakterijos, jog palengvintų geležies jonų pernašą per plazminę membraną. Geležies jonai gamtoje įprastai yra netirpaus pavidalo, sideroforai juos padaro tirpius.
+* Sideroforas (iš graikų, sidero - geležis, foras - nešantis) - smulkios molekulės, kurios stipriai jungiasi su geležies jonais. Jas išskiria grybai ir bakterijos, jog palengvintų geležies jonų pernašą per plazminę membraną. Geležies jonai gamtoje įprastai yra netirpaus pavidalo, sideroforai juos padaro tirpiais.
 * Boxplot (liet. stačiakampė diagrama) - grafinis duomenų atvaizdavimo tipas, kuomet centre yra mediana, o stačiakampio viršutinė ir apatinė ribos yra pirmas ir antras ketvirtis.
+* Komensalizmas - dviejų organizmų santykis, kuomet viena rūšis iš santykio gauna naudą, o kita rūšis nepatiria nei naudos, nei žalos.
 
 ```
 
@@ -62,6 +63,25 @@ knitr::include_graphics("static/img/sideroforai_grafikas_C.png")
 knitr::include_graphics("static/img/sideroforai_grafikas_D.png")
 
 ```
+
+## Kodėl šitas straipsnis svarbus?
+
+Mikrobiologija kaip sritis tapo labai įvairi ir šiuo metu mūsų supratimas apie santykį su bakterijomis smarkiai keičiasi. Bakterijos, anksčiau laikytos komensalėmis, dabar laikomos mums naudingos. Tai galioja ir kitiems gyvūnams - pavyzdžiui, vabzdžiai negali išgyventi be virškinamojo trakto bakterijų, o pelių vystymasis nepilnas be mikrofloros[^1]. Autoriai įžangoje vietinę mikroflorą palygina su papildoma gynyba prieš patogenus. Kaip ir vakcinos ar konkurenciniai patogenai, vietinė mikroflora konkuruoja su patogu ir skatina prisitaikymą prie aplinkos. Suprasdami, kaip vietinė mikroflora veikia patogenų prisitaikymą galime suprasti daugiau apie bendrą jų prisitaikymo procesą bei išsiaiškinti, ar yra būdų kontroliuoti infekcijų išeitis.
+
+[^1]: Apie bakterijų įtaką mums ir mūsų aplinkai rekomenduoju dvi knygas: Ed Yong "Manyje gyvena milijonai" (ang. "I Contain Multitudes") ir Giulia Enders "Žarnyno žavumynai (ang. Gut: The Inside Story of Our Body's Most Underrated Organ).
+
+## Kas yra stačiakampė diagrama?
+
+Iliustracijose duomenys pateikti kaip stačiakampė diagrama. Tai yra diagrama, kuri parodo 5 apibendrinimus apie duomenis: medianą, pirmą ir trečią kvartilį, bei 1,5 tarpkvartilinio ilgio apimtis. Diagrama tipiškai atrodo taip:
+
+```{r}
+
+knitr::include_graphics("static/img/boxplot.png")
+
+```
+
+Centrinė linija yra *mediana*, stačiakampio kraštai ir pirmas ir trečias kvartiliai, o ūsų ilgis yra lygus 1,5 tarpkvartiliniam pločiui. Tai labai geras grafikas dėl to, jog mediana nėra lygi vidurkiui, todėl jeigu mediana nėra viduryje stačiakampio, mes žinome, ar duomenys yra smarkiai nukrypę į dideles ar mažas vertes (t.y. ar jie yra simetriški). Tarpkvartilinis plotas (pats stačiakampis) parodo, kaip plačiai vertės yra išsidėsčiusios. Jeigu stačiakampis siauras, tai reiškia, jog 50 proc. reikšmių yra koncentruotos ties tam tikra verte, o jeigu stačiakampis yra platus - vertės yra labai išsimėčiusios ir duomenyse yra daug variacijos. Diagramos ūsai yra taip pat naudingi nustatyti, ar didelės ir mažos reikšmės yra labai nutolusios nuo medianos ar bendro duomenų skirsio. Taškai grafike žymi vertes, kurios yra tokios didelės, jog nepatenka į ūso ilgio. Jos yra geras indikatorius, jog su duomenimis nebūtinai viskas gerai - tokiais atvejais reikia savęs klausti, koks yra duomenų pasiskirstymas, kaip buvo sugeneruoti duomenys ir ar reikia ką nors daryti apie tai.
+
 
 ## Klausimai
 
