@@ -4,24 +4,30 @@
 
 ```{block, type='terms'}
 
-* Sideroforas (iš graikų, sidero - geležis, foras - nešantis) - smulkios molekulės, kurios stipriai jungiasi su geležies jonais. Jas išskiria grybai ir bakterijos, jog palengvintų geležies jonų pernašą per plazminę membraną. Geležies jonai gamtoje įprastai yra netirpaus pavidalo, sideroforai juos padaro tirpiais.
-* Boxplot (liet. stačiakampė diagrama) - grafinis duomenų atvaizdavimo tipas, kuomet centre yra mediana, o stačiakampio viršutinė ir apatinė ribos yra pirmas ir antras ketvirtis.
-* Komensalizmas - dviejų organizmų santykis, kuomet viena rūšis iš santykio gauna naudą, o kita rūšis nepatiria nei naudos, nei žalos.
+* *Sideroforas* (iš graikų, sidero - geležis, foras - nešantis) - smulkios molekulės, kurios stipriai jungiasi su geležies jonais. Jas išskiria grybai ir bakterijos, jog palengvintų geležies jonų pernašą per plazminę membraną. Geležies jonai gamtoje įprastai yra netirpaus pavidalo, sideroforai juos padaro tirpiais.
+* *Boxplot* (liet. stačiakampė diagrama) - grafinis duomenų atvaizdavimo tipas, kuomet centre yra mediana, o stačiakampio viršutinė ir apatinė ribos yra pirmas ir antras ketvirtis.
+* *Komensalizmas* - dviejų organizmų santykis, kuomet viena rūšis iš santykio gauna naudą, o kita rūšis nepatiria nei naudos, nei žalos.
 
 ```
 
-Atsakykite į klausimus remdamiesi ištraukomis iš straipsnio ["Microbe-mediated host defence drives the evolution of reduced pathogen virulence"](https://www.nature.com/articles/ncomms13430) (Ford S, 2016, doi: 10.1038/ncomms13430). Rekomenduojame perskaityti visą straipsnį, bet tai nėra būtina norint atsakyti į pateiktus klausimus.
+Atsakykite į klausimus remdamiesi ištraukomis iš straipsnio ["Microbe-mediated host defence drives the evolution of reduced pathogen virulence"](https://www.nature.com/articles/ncomms13430) (Ford S, 2016, doi: 10.1038/ncomms13430). Ištraukų turėtų pakakti norint atsakyti į pateiktus klausimus, tačiau rekomenduojame perskaityti visą straipsnį.
+
+* Paaiškinti, kas yra ancestral
+* Ištrauka apie metodus ir užduotis nupiešti schemą
+* Kaip paaiškinti box plotus?
+* Įtraukti komentarus iš recenzento kaip galimus counterpoints apie studiją
+
 
 ## Ištraukos
 
 ### Ištrauka A
 
-Microbes can defend their hosts against pathogenic infection. This phenomenon has been widely observed in nature across plant and animal species, including humans, to provide a strong line of defence beyond the host response. As a result, microbes with protective traits are considered promising disease control agents and alternatives to antibiotics to combat devastating human and crop pathogens. Importantly, pathogen adaptation to barriers against infection can drive the evolution of virulence, as observed against immune-priming vaccines8 and competing, co-infecting pathogens. Given that defensive microbes likely impose strong selection on pathogens too, they may also play a pivotal role in determining why some infections are more harmful than others.
+>Microbes can defend their hosts against pathogenic infection. This phenomenon has been widely observed in nature across plant and animal species, including humans, to provide a strong line of defence beyond the host response. As a result, microbes with protective traits are considered promising disease control agents and alternatives to antibiotics to combat devastating human and crop pathogens. Importantly, pathogen adaptation to barriers against infection can drive the evolution of virulence, as observed against immune-priming vaccines^8^ and competing, co-infecting pathogens. Given that defensive microbes likely impose strong selection on pathogens too, they may also play a pivotal role in determining why some infections are more harmful than others.
 
 
 ### Ištrauka B
 
-Furthermore, we have shown that although E. faecalis imposes a small cost to host longevity while colonizing alone (un-colonized hosts experience no mortality under otherwise the same conditions), this bacterium provides a net benefit to hosts during S. aureus infection19. <...> To test the hypothesis that defensive microbes can affect pathogen virulence evolution, we co-passaged S. aureus and E. faecalis (co-evolution treatment) and independently passaged S. aureus (single evolution treatment) within non-evolving, genetically homogeneous C. elegans populations for 10 passages.
+>Furthermore, we have shown that although E. faecalis imposes a small cost to host longevity while colonizing alone (un-colonized hosts experience no mortality under otherwise the same conditions), this bacterium provides a net benefit to hosts during S. aureus infection19. <...> To test the hypothesis that defensive microbes can affect pathogen virulence evolution, we co-passaged S. aureus and E. faecalis (co-evolution treatment) and independently passaged S. aureus (single evolution treatment) within non-evolving, genetically homogeneous C. elegans populations for 10 passages.
 
 ### Iliustracija C
  
